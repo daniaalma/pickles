@@ -1,3 +1,4 @@
 hi
 picker
 licker
+sticker
